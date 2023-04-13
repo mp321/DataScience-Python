@@ -1,3 +1,1 @@
-PDF printouts of various code and analysis using python and jupyter notebook. 
-
-Detailed descriptions and code are available upon request
+## This is simpy a repo of PDF printouts of various Data Analysis techniques using python and jupyter notebook. 
